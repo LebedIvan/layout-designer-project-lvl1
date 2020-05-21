@@ -1,8 +1,17 @@
-.header{
-    background-color: red;
+.left-header{
+    display: flex;
 }
-.header img{
-    float: left;
-    width: 100px;
-    height: 100px;
+.left-header img{
+    width: 10px;
+    height: 10px;
 }
+.name{
+    display: flex;
+}
+.menu{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
